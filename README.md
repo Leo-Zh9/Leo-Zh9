@@ -8,7 +8,6 @@
 </div>
 
 <br/>
-<br/>
 
 <div align="center">
   
@@ -31,8 +30,8 @@ Check me out @ [leo-zhang.com](https://leo-zhang.com)!
 <br/>
 
 **Connect with me:** <br>
-•   [LinkedIn](https://www.linkedin.com/in/leozhang99): https://www.linkedin.com/in/leozhang99 <br>
-•   [Email](mailto:leo.zhang@outlook.com): leo.zhang@outlook.com
+•   LinkedIn: [Leo Zhang](https://www.linkedin.com/in/leozhang99)<br>
+•   Email: [leo.zhang@outlook.com](mailto:leo.zhang@outlook.com)
 </div>
 
 <br clear="both"/>
