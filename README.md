@@ -31,7 +31,7 @@ Check me out @ [leo-zhang.com](https://leo-zhang.com)!
 <br/>
 
 **Connect with me:** <br>
-•   [LinkedIn](https://www.linkedin.com/in/leozhang99): Leo Zhang <br>
+•   [LinkedIn](https://www.linkedin.com/in/leozhang99): https://www.linkedin.com/in/leozhang99 <br>
 •   [Email](mailto:leo.zhang@outlook.com): leo.zhang@outlook.com
 </div>
 
