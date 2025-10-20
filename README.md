@@ -5,17 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=70a5fd&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+Intelligent+Systems+%7C+AI+%7C+Full+Stack;Connecting+People%2C+Data%2C+and+Design" alt="Typing SVG" />
 
 <br/>
-
-<a href="https://leo-zhang.com">
-  <img src="https://img.shields.io/badge/Website-leo--zhang.com-70a5fd?style=flat&labelColor=1a1b27&logo=googlechrome&logoColor=white" alt="Website"/>
-</a>
-<a href="https://www.linkedin.com/in/leozhang99">
-  <img src="https://img.shields.io/badge/LinkedIn-Leo%20Zhang-70a5fd?style=flat&labelColor=1a1b27&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:leo.zhang@outlook.com">
-  <img src="https://img.shields.io/badge/Email-leo.zhang@outlook.com-70a5fd?style=flat&labelColor=1a1b27&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
 </div>
 
 <br/>
@@ -33,28 +22,23 @@
 
 <div style="text-align: left; padding: 0 50px; line-height: 2.2;">
 
-<br/>
 
-**Systems Design Engineering student at the University of Waterloo**
+I’m a Systems Design Engineering student at the University of Waterloo with a deep interest in how intelligent systems shape human experience. I approach engineering as both a technical and creative discipline — one that balances precision with curiosity.  
 
-<br/>
+My work spans software development, AI integration, and system architecture, often exploring how design thinking can make complex technology more intuitive and impactful. I’m most engaged when building solutions that connect structure with purpose — turning ideas into systems that work elegantly in practice.
 
-Exploring how intelligent systems integrate people, data, and design through interdisciplinary approaches
-
-<br/>
-
-Specializing in software development, artificial intelligence, and systems thinking to build robust solutions
+Check me out @ [leo-zhang.com](https://leo-zhang.com)!
 
 <br/>
 
-Focused on developing tools that balance technical excellence with thoughtful design principles
+**Connect with me:**
 
-<br/>
-
-Interested in projects that challenge conventional thinking and span multiple domains
-
-<br/>
-
+<a href="https://www.linkedin.com/in/leozhang99">
+  <img src="https://img.shields.io/badge/LinkedIn-Leo%20Zhang-70a5fd?style=flat&labelColor=1a1b27&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:leo.zhang@outlook.com">
+  <img src="https://img.shields.io/badge/Email-leo.zhang@outlook.com-70a5fd?style=flat&labelColor=1a1b27&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+</a>
 </div>
 
 <br clear="both"/>
@@ -63,11 +47,11 @@ Interested in projects that challenge conventional thinking and span multiple do
 
 ## Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,nextjs,ts,react,nodejs,tailwind&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,postgresql,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postgresql,redis&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,vscode,postman,linux,bash,pytorch,tensorflow,numpy&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,vscode,pytorch,tensorflow&theme=dark" />
 
 </div>
 
