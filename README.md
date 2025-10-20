@@ -22,13 +22,17 @@
 
 <div style="text-align: left; padding: 0 50px; line-height: 1.8; font-size: 16px;">
 
-I'm a Systems Design Engineering student at the University of Waterloo with a deep interest in how intelligent systems shape human experience. I approach engineering as both a technical and creative discipline — one that balances precision with curiosity.  
+I'm currently studying Systems Design Engineering at the University of Waterloo with a deep  interest in how intelligent systems shape human experience. I approach engineering as both a technical and creative discipline — one that balances precision with curiosity.  
 
 My work spans software development, AI integration, and system architecture, often exploring how design thinking can make complex technology more intuitive and impactful. I'm most engaged when building solutions that connect structure with purpose — turning ideas into systems that work elegantly in practice.
 
+Check me out @ [leo-zhang.com](https://leo-zhang.com)!
+
 <br/>
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/leozhang99) • [Email](mailto:leo.zhang@outlook.com) • [leo-zhang.com](https://leo-zhang.com)
+**Connect with me:** 
+•   [LinkedIn](https://www.linkedin.com/in/leozhang99): Leo Zhang
+•   [Email](mailto:leo.zhang@outlook.com): leo.zhang@outlook.com
 </div>
 
 <br clear="both"/>
