@@ -1,28 +1,27 @@
+<div align="left">
+
 # Leo Zhang
 
-<div align="center">
-
-![Leo Zhang](https://leo-zhang-website.s3.us-east-1.amazonaws.com/beijing-picture.jpg)
-
-```
-Systems Design Engineering · University of Waterloo
-```
+*Systems Design Engineering · University of Waterloo*
 
 ---
 
-### ○ Connect
-**Portfolio** → [leozhang.com](https://leo-zhang.com)  
-**GitHub** → [github.com/Leo-Zh9](https://github.com/Leo-Zh9)  
-**LinkedIn** → [linkedin.com/in/leozhang99](https://linkedin.com/in/leozhang99)  
-**Twitter** → [x.com/leozhangzyx](https://x.com/leozhangzyx)
+### ○ *Connect*
 
-📄 **Resume** → [Download](https://leo-zhang-website.s3.us-east-1.amazonaws.com/Resume+(1).pdf)
+Portfolio → [leozhang.com](https://leo-zhang.com)  
+GitHub → [github.com/Leo-Zh9](https://github.com/Leo-Zh9)  
+LinkedIn → [linkedin.com/in/leozhang99](https://linkedin.com/in/leozhang99)  
+Twitter → [x.com/leozhangzyx](https://x.com/leozhangzyx)
 
----
+📄 Resume → [Download](https://leo-zhang-website.s3.us-east-1.amazonaws.com/Resume+(1).pdf)
 
 </div>
 
-## ○ About
+<img align="right" width="250" src="https://leo-zhang-website.s3.us-east-1.amazonaws.com/beijing-picture.jpg" alt="Leo Zhang">
+
+---
+
+## ○ *About*
 
 Building solutions through **code**, **design**, and **systems thinking**.
 
@@ -30,10 +29,10 @@ Currently exploring the intersection of **AI**, **web development**, and **data 
 
 ---
 
-## ○ Projects
+## ○ *Projects*
 
 ### Bridgette
-**Data Integration Platform** · Oct 2025
+*Data Integration Platform · Oct 2025*
 
 Developed a data processing platform that merged **100+ data files** with **99% validation accuracy**. Built Flask REST APIs for schema compliance and automated validation, **reducing manual review time by 85%**. Implemented Docker containerization and CI/CD pipelines, **accelerating deployment by 70%**. Integrated OpenAI API for intelligent schema matching, **improving parsing efficiency by 40%**.
 
@@ -44,7 +43,7 @@ Developed a data processing platform that merged **100+ data files** with **99% 
 ---
 
 ### Preppin'
-**AI Nutrition Coach** · Jul 2024
+*AI Nutrition Coach · Jul 2024*
 
 Constructed Flask + OpenAI microservice processing **5,000+ queries** with **94% accuracy**. Implemented Tesseract OCR with OpenCV preprocessing, **reducing manual data entry by 90%**. Led **4-person team** through agile SDLC, delivering production MVP in **36 hours**. Developed React SPA with authentication, payment processing, and user forms supporting **150+ users**.
 
@@ -54,7 +53,7 @@ Constructed Flask + OpenAI microservice processing **5,000+ queries** with **94%
 
 ---
 
-## ○ Tech Stack
+## ○ *Tech Stack*
 
 **Languages & Core**  
 Python · TypeScript · JavaScript · C++ · Java · HTML5 · CSS3 · SQL
