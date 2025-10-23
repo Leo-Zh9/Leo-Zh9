@@ -1,12 +1,12 @@
-<img align="right" width="200" style="margin-top: 40px; margin-left: 25px; margin-bottom: 30px; border-radius: 8px;" src="https://leo-zhang-website.s3.us-east-1.amazonaws.com/beijing-picture.jpg" alt="Leo Zhang">
+<!-- <table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="65%" valign="top"> -->
 
 # Leo Zhang
 
 *Systems Design Engineering · University of Waterloo*
 
-<br>
-
-### ○ *Connect*
+## ○ *Connect*
 
 Portfolio → [leozhang.com](https://leo-zhang.com)  
 GitHub → [github.com/Leo-Zh9](https://github.com/Leo-Zh9)  
@@ -15,41 +15,14 @@ Twitter → [x.com/leozhangzyx](https://x.com/leozhangzyx)
 
 📄 Resume → [Download](https://leo-zhang-website.s3.us-east-1.amazonaws.com/Resume+(1).pdf)
 
-<br>
-<br>
-<br clear="right"/>
+</td>
+<!-- <td width="35%" valign="middle" align="center">
 
----
+<!-- <img width="200" style="border-radius: 8px;" src="https://leo-zhang-website.s3.us-east-1.amazonaws.com/beijing-picture.jpg" alt="Leo Zhang"> -->
 
-## ○ *About*
-
-Building solutions through **code**, **design**, and **systems thinking**.
-
-Currently exploring the intersection of **AI**, **web development**, and **data engineering**.
-
----
-
-## ○ *Projects*
-
-### Bridgette
-*Data Integration Platform · Oct 2025*
-
-Developed a data processing platform that merged **100+ data files** with **99% validation accuracy**. Built Flask REST APIs for schema compliance and automated validation, **reducing manual review time by 85%**. Implemented Docker containerization and CI/CD pipelines, **accelerating deployment by 70%**. Integrated OpenAI API for intelligent schema matching, **improving parsing efficiency by 40%**.
-
-`Python` `Flask` `React` `TypeScript` `Docker` `OpenAI API` `REST APIs` `CI/CD` `Pandas` `HTML` `CSS`
-
-🔗 [GitHub](https://github.com/Leo-Zh9/bridgette) · [Devpost](https://devpost.com/software/bridgette)
-
----
-
-### Preppin'
-*AI Nutrition Coach · Jul 2024*
-
-Constructed Flask + OpenAI microservice processing **5,000+ queries** with **94% accuracy**. Implemented Tesseract OCR with OpenCV preprocessing, **reducing manual data entry by 90%**. Led **4-person team** through agile SDLC, delivering production MVP in **36 hours**. Developed React SPA with authentication, payment processing, and user forms supporting **150+ users**.
-
-`Python` `Flask` `React` `OpenAI API` `Tesseract OCR` `OpenCV` `JavaScript` `HTML` `CSS` `Authentication` `Payment APIs`
-
-🔗 [GitHub](https://github.com/austinjiann/Preppin) · [Devpost](https://devpost.com/software/preppin)
+</td>
+</tr>
+</table>
 
 ---
 
