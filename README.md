@@ -1,56 +1,86 @@
-<div align="center">
+# LEO ZHANG
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d3748,100:1a1b27&height=180&section=header&text=Leo%20Zhang&fontSize=52&fontColor=70a5fd&animation=twinkling&fontAlignY=35&fontAlign=50" />
+```
+Systems Design Engineering · University of Waterloo
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=70a5fd&center=true&vCenter=true&width=600&lines=Systems+Design+Engineering+%40+UWaterloo" alt="Typing SVG" />
+---
 
-<br/>
-</div>
+## ○ ABOUT
 
-<br/>
+Building solutions through **code**, **design**, and **systems thinking**.
 
-<div align="center">
-  
-### About Me
+Currently exploring the intersection of **AI**, **web development**, and **data engineering**.
 
-</div>
+---
 
-<a href="https://www.linkedin.com/in/leozhang99">
-  <img align="right" alt="Leo Zhang" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://leo-zhang-website.s3.us-east-1.amazonaws.com/linkedin+picture.jpg" />
-</a>
+## ○ EXPERIENCE
 
-<div style="text-align: left; padding: 0 50px; line-height: 1.8; font-size: 16px;">
+**SOFTWARE ENGINEER**  
+*Incendium Academy* · May 2025 – Aug 2025
 
-I'm currently studying Systems Design Engineering at the University of Waterloo with a deep  interest in how intelligent systems shape human experience. I approach engineering as both a technical and creative discipline — one that balances precision with curiosity.  
+Built and optimized web applications, automated workflows, and contributed to scalable digital platforms. Implemented technical solutions that streamlined operations, improved user engagement, and supported student-driven initiatives.
 
-My work spans software development, AI integration, and system architecture, often exploring how design thinking can make complex technology more intuitive and impactful. I'm most engaged when building solutions that connect structure with purpose — turning ideas into systems that work elegantly in practice.
+`JavaScript` `Python` `HTML` `CSS`
 
-Check me out @ [leo-zhang.com](https://leo-zhang.com)!
+---
 
-<br/>
+## ○ PROJECTS
 
-**Connect with me:** <br>
-•   LinkedIn: [Leo Zhang](https://www.linkedin.com/in/leozhang99)<br>
-•   Email: [leo.zhang@outlook.com](mailto:leo.zhang@outlook.com)
-</div>
+### Bridgette
+**Data Integration Platform** · Oct 2025
 
-<br clear="both"/>
+AI-powered solution that unifies multiple bank datasets into one clean spreadsheet. Handles `.json`, `.csv`, and `.xlsx` files with automatic schema mapping and data integrity validation.
 
-<div align="center">
+`Python` `Flask` `React` `OpenAI API` `Docker`
 
-### Tech Stack & Tools
+🔗 [GitHub](https://github.com/Leo-Zh9/bridgette) · [Devpost](https://devpost.com/software/bridgette)
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,nextjs,ts,react,nodejs,tailwind&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postgresql,redis&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=figma,vscode,pytorch,tensorflow&theme=dark" />
+---
 
-</div>
+### Preppin'
+**AI Meal Planning** · Jul 2024
 
-<br/>
-<br/>
+AI-powered meal planning service that creates personalized recipes based on available ingredients. Upload receipts or enter ingredients manually for instant meal plans.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d3748,100:1a1b27&height=120&section=footer" />
+`Python` `Flask` `OpenAI API` `Tesseract OCR`
 
-</div>
+🔗 [GitHub](https://github.com/austinjiann/Preppin) · [Devpost](https://devpost.com/software/preppin)
+
+---
+
+## ○ TECH STACK
+
+**Languages**  
+Python · TypeScript · JavaScript · HTML · CSS
+
+**Frameworks**  
+React · Next.js · Flask · Tailwind CSS
+
+**Tools**  
+Docker · Git · AWS · MongoDB · PostgreSQL
+
+**APIs & AI**  
+OpenAI API · Spotify API · REST · OAuth 2.0
+
+---
+
+## ○ CONNECT
+
+**Portfolio** → [leozhang.dev](https://leozhang.dev)  
+**LinkedIn** → [linkedin.com/in/leozhang99](https://linkedin.com/in/leozhang99)  
+**GitHub** → [github.com/Leo-Zh9](https://github.com/Leo-Zh9)  
+**Twitter** → [x.com/leozhangzyx](https://x.com/leozhangzyx)
+
+📄 **Resume** → [Download](https://leo-zhang-website.s3.us-east-1.amazonaws.com/Resume+(1).pdf)
+
+---
+
+```
+"Building things that matter, one line at a time."
+```
+
+---
+
+*Last updated: October 2025*
+
