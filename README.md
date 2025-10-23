@@ -1,4 +1,4 @@
-<img align="right" width="200" style="margin-left: 25px; margin-bottom: 30px; border-radius: 8px;" src="https://leo-zhang-website.s3.us-east-1.amazonaws.com/beijing-picture.jpg" alt="Leo Zhang">
+<img align="right" width="200" style="margin-top: 40px; margin-left: 25px; margin-bottom: 30px; border-radius: 8px;" src="https://leo-zhang-website.s3.us-east-1.amazonaws.com/beijing-picture.jpg" alt="Leo Zhang">
 
 # Leo Zhang
 
