@@ -19,9 +19,9 @@ Currently exploring the intersection of **AI**, **web development**, and **data 
 **SOFTWARE ENGINEER**  
 *Incendium Academy* · May 2025 – Aug 2025
 
-Built and optimized web applications, automated workflows, and contributed to scalable digital platforms. Implemented technical solutions that streamlined operations, improved user engagement, and supported student-driven initiatives.
+Built a **scalable full-stack platform** serving **1,000+ users** with Next.js, Flask, and PostgreSQL. Optimized backend queries and implemented Cloudflare caching to **reduce latency by 30%**. Delivered features across **4 Agile sprints** using Git, CI/CD pipelines, and automated testing. Built unit and integration test suites with PyTest and Jest, **cutting pre-production defects by 40%**.
 
-`JavaScript` `Python` `HTML` `CSS`
+`Next.js` `Flask` `PostgreSQL` `Python` `TypeScript` `JavaScript` `Cloudflare` `Git` `CI/CD` `PyTest` `Jest` `Agile/Scrum`
 
 ---
 
@@ -30,20 +30,20 @@ Built and optimized web applications, automated workflows, and contributed to sc
 ### Bridgette
 **Data Integration Platform** · Oct 2025
 
-AI-powered solution that unifies multiple bank datasets into one clean spreadsheet. Handles `.json`, `.csv`, and `.xlsx` files with automatic schema mapping and data integrity validation.
+Developed a data processing platform that merged **100+ data files** with **99% validation accuracy**. Built Flask REST APIs for schema compliance and automated validation, **reducing manual review time by 85%**. Implemented Docker containerization and CI/CD pipelines, **accelerating deployment by 70%**. Integrated OpenAI API for intelligent schema matching, **improving parsing efficiency by 40%**.
 
-`Python` `Flask` `React` `OpenAI API` `Docker`
+`Python` `Flask` `React` `TypeScript` `Docker` `OpenAI API` `REST APIs` `CI/CD` `Pandas` `HTML` `CSS`
 
 🔗 [GitHub](https://github.com/Leo-Zh9/bridgette) · [Devpost](https://devpost.com/software/bridgette)
 
 ---
 
 ### Preppin'
-**AI Meal Planning** · Jul 2024
+**AI Nutrition Coach** · Jul 2024
 
-AI-powered meal planning service that creates personalized recipes based on available ingredients. Upload receipts or enter ingredients manually for instant meal plans.
+Constructed Flask + OpenAI microservice processing **5,000+ queries** with **94% accuracy**. Implemented Tesseract OCR with OpenCV preprocessing, **reducing manual data entry by 90%**. Led **4-person team** through agile SDLC, delivering production MVP in **36 hours**. Developed React SPA with authentication, payment processing, and user forms supporting **150+ users**.
 
-`Python` `Flask` `OpenAI API` `Tesseract OCR`
+`Python` `Flask` `React` `OpenAI API` `Tesseract OCR` `OpenCV` `JavaScript` `HTML` `CSS` `Authentication` `Payment APIs`
 
 🔗 [GitHub](https://github.com/austinjiann/Preppin) · [Devpost](https://devpost.com/software/preppin)
 
@@ -51,23 +51,46 @@ AI-powered meal planning service that creates personalized recipes based on avai
 
 ## ○ TECH STACK
 
-**Languages**  
-Python · TypeScript · JavaScript · HTML · CSS
+**Languages & Core**  
+Python · TypeScript · JavaScript · C++ · Java · HTML5 · CSS3 · SQL
 
-**Frameworks**  
-React · Next.js · Flask · Tailwind CSS
+**Frontend Development**  
+React · Next.js · Tailwind CSS · Responsive Design · SSR/SSG · Web Performance Optimization
 
-**Tools**  
-Docker · Git · AWS · MongoDB · PostgreSQL
+**Backend & APIs**  
+Flask · Node.js · REST APIs · GraphQL · OAuth 2.0 · Microservices Architecture
 
-**APIs & AI**  
-OpenAI API · Spotify API · REST · OAuth 2.0
+**Databases & Storage**  
+PostgreSQL · MongoDB · AWS S3 · Database Design · Query Optimization
+
+**DevOps & Tools**  
+Docker · Git/GitHub · CI/CD Pipelines · AWS (S3, Lambda, EC2) · Cloudflare · Vercel
+
+**AI & Machine Learning**  
+OpenAI API · PyTorch · OpenCV · NumPy · Pandas · Computer Vision · NLP
+
+**Testing & Quality**  
+Jest · PyTest · Unit Testing · Integration Testing · Test-Driven Development
+
+**Development Practices**  
+Agile/Scrum · Modular Design · Code Review · Version Control · API Design
+
+---
+
+## ○ ADDITIONAL EXPERIENCE
+
+**AI ENGINEERING INTERN**  
+*WAT.ai* · Jul 2024
+
+Designed PostgreSQL data models for AI video editing metadata. Built Python preprocessing pipelines using OpenCV, NumPy, and PyTorch for frame-level feature extraction. Prototyped transformer-based retrieval model for contextual film scene search.
+
+`Python` `PyTorch` `OpenCV` `NumPy` `PostgreSQL` `Transformers` `Computer Vision`
 
 ---
 
 ## ○ CONNECT
 
-**Portfolio** → [leozhang.dev](https://leozhang.dev)  
+**Portfolio** → [leozhang.dev](https://leo-zhang.com)  
 **LinkedIn** → [linkedin.com/in/leozhang99](https://linkedin.com/in/leozhang99)  
 **GitHub** → [github.com/Leo-Zh9](https://github.com/Leo-Zh9)  
 **Twitter** → [x.com/leozhangzyx](https://x.com/leozhangzyx)
