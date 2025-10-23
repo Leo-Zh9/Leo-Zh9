@@ -1,4 +1,4 @@
-<img align="right" width="200" style="margin-left: 20px; margin-bottom: 20px; border-radius: 8px;" src="https://leo-zhang-website.s3.us-east-1.amazonaws.com/beijing-picture.jpg" alt="Leo Zhang">
+<img align="right" width="200" style="margin-left: 25px; margin-bottom: 30px; border-radius: 8px;" src="https://leo-zhang-website.s3.us-east-1.amazonaws.com/beijing-picture.jpg" alt="Leo Zhang">
 
 # Leo Zhang
 
@@ -15,6 +15,8 @@ Twitter → [x.com/leozhangzyx](https://x.com/leozhangzyx)
 
 📄 Resume → [Download](https://leo-zhang-website.s3.us-east-1.amazonaws.com/Resume+(1).pdf)
 
+<br>
+<br>
 <br clear="right"/>
 
 ---
