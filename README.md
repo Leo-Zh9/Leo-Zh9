@@ -6,7 +6,7 @@
 
 *Systems Design Engineering · University of Waterloo*
 
-## ○ *Connect*
+## Connect
 
 Portfolio → [leozhang.com](https://leo-zhang.com)  
 GitHub → [github.com/Leo-Zh9](https://github.com/Leo-Zh9)  
@@ -26,7 +26,7 @@ Twitter → [x.com/leozhangzyx](https://x.com/leozhangzyx)
 
 ---
 
-## ○ *Tech Stack*
+## Tech Stack
 
 **Languages & Core**  
 Python · TypeScript · JavaScript · C++ · Java · HTML5 · CSS3 · SQL
