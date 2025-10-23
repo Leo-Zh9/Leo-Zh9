@@ -1,4 +1,8 @@
-# LEO ZHANG
+# Leo Zhang
+
+<div align="center">
+
+![Leo Zhang](https://leo-zhang-website.s3.us-east-1.amazonaws.com/beijing-picture.jpg)
 
 ```
 Systems Design Engineering · University of Waterloo
@@ -6,7 +10,19 @@ Systems Design Engineering · University of Waterloo
 
 ---
 
-## ○ ABOUT
+### ○ Connect
+**Portfolio** → [leozhang.com](https://leo-zhang.com)  
+**GitHub** → [github.com/Leo-Zh9](https://github.com/Leo-Zh9)  
+**LinkedIn** → [linkedin.com/in/leozhang99](https://linkedin.com/in/leozhang99)  
+**Twitter** → [x.com/leozhangzyx](https://x.com/leozhangzyx)
+
+📄 **Resume** → [Download](https://leo-zhang-website.s3.us-east-1.amazonaws.com/Resume+(1).pdf)
+
+---
+
+</div>
+
+## ○ About
 
 Building solutions through **code**, **design**, and **systems thinking**.
 
@@ -14,18 +30,7 @@ Currently exploring the intersection of **AI**, **web development**, and **data 
 
 ---
 
-## ○ EXPERIENCE
-
-**SOFTWARE ENGINEER**  
-*Incendium Academy* · May 2025 – Aug 2025
-
-Built a **scalable full-stack platform** serving **1,000+ users** with Next.js, Flask, and PostgreSQL. Optimized backend queries and implemented Cloudflare caching to **reduce latency by 30%**. Delivered features across **4 Agile sprints** using Git, CI/CD pipelines, and automated testing. Built unit and integration test suites with PyTest and Jest, **cutting pre-production defects by 40%**.
-
-`Next.js` `Flask` `PostgreSQL` `Python` `TypeScript` `JavaScript` `Cloudflare` `Git` `CI/CD` `PyTest` `Jest` `Agile/Scrum`
-
----
-
-## ○ PROJECTS
+## ○ Projects
 
 ### Bridgette
 **Data Integration Platform** · Oct 2025
@@ -49,7 +54,7 @@ Constructed Flask + OpenAI microservice processing **5,000+ queries** with **94%
 
 ---
 
-## ○ TECH STACK
+## ○ Tech Stack
 
 **Languages & Core**  
 Python · TypeScript · JavaScript · C++ · Java · HTML5 · CSS3 · SQL
@@ -77,33 +82,14 @@ Agile/Scrum · Modular Design · Code Review · Version Control · API Design
 
 ---
 
-## ○ ADDITIONAL EXPERIENCE
-
-**AI ENGINEERING INTERN**  
-*WAT.ai* · Jul 2024
-
-Designed PostgreSQL data models for AI video editing metadata. Built Python preprocessing pipelines using OpenCV, NumPy, and PyTorch for frame-level feature extraction. Prototyped transformer-based retrieval model for contextual film scene search.
-
-`Python` `PyTorch` `OpenCV` `NumPy` `PostgreSQL` `Transformers` `Computer Vision`
-
----
-
-## ○ CONNECT
-
-**Portfolio** → [leozhang.dev](https://leo-zhang.com)  
-**LinkedIn** → [linkedin.com/in/leozhang99](https://linkedin.com/in/leozhang99)  
-**GitHub** → [github.com/Leo-Zh9](https://github.com/Leo-Zh9)  
-**Twitter** → [x.com/leozhangzyx](https://x.com/leozhangzyx)
-
-📄 **Resume** → [Download](https://leo-zhang-website.s3.us-east-1.amazonaws.com/Resume+(1).pdf)
-
----
-
 ```
 "Building things that matter, one line at a time."
 ```
 
 ---
 
+<div align="center">
+
 *Last updated: October 2025*
 
+</div>
