@@ -6,14 +6,12 @@
 
 *Systems Design Engineering · University of Waterloo*
 
-## Connect
-
-Portfolio → [leozhang.com](https://leo-zhang.com)  
+Portfolio Website → [leozhang.com](https://leo-zhang.com)  
 GitHub → [github.com/Leo-Zh9](https://github.com/Leo-Zh9)  
 LinkedIn → [linkedin.com/in/leozhang99](https://linkedin.com/in/leozhang99)  
 Twitter → [x.com/leozhangzyx](https://x.com/leozhangzyx)
 
-📄 Resume → [Download](https://leo-zhang-website.s3.us-east-1.amazonaws.com/Resume+(1).pdf)
+Resume → [Download](https://leo-zhang-website.s3.us-east-1.amazonaws.com/Resume+(1).pdf)
 
 </td>
 <!-- <td width="35%" valign="middle" align="center">
