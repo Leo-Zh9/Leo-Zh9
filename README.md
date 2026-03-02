@@ -22,6 +22,4 @@ Twitter → [x.com/leozhangzyx](https://x.com/leozhangzyx)
 
 <div align="center">
 
-*Last updated: December 2025*
-
 </div>
